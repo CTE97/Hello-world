@@ -1,2 +1,4 @@
 # Hello-world
-First repository
+hi，
+no matter what happens，
+just go on.
